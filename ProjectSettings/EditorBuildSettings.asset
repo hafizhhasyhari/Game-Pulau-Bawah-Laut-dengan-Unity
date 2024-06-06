@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Menu.unity
+    guid: 601c6820bcbee554c8ff8a62457b7ecd
+  - enabled: 1
+    path: Assets/sceneCredit.unity
+    guid: 8959761e88edf2d4a86859c35313fdd6
+  - enabled: 1
+    path: Assets/sceneAbout.unity
+    guid: e5ccf1ba9c9003649ab5709b7b653b84
+  - enabled: 1
+    path: Assets/sceneHowToPlay.unity
+    guid: be02aa35c4638e3409ec9501570c71e1
+  - enabled: 1
+    path: Assets/sceneSelectStage.unity
+    guid: 44912b440a965a44a98c83061069be96
+  - enabled: 1
+    path: Assets/sceneHighScore.unity
+    guid: 8da26d749628bc044ab105303db59fae
+  m_configObjects: {}
